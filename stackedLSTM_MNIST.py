@@ -1,15 +1,6 @@
 ###################################################
 #
-# Build a feed forward RNN (lstm) in tensorflow ANN to predict digits from MNIST data
-# Jason Dean
-# 09/16/17
-#
-###################################################
-
-
-###################################################
-#
-# Build a feed forward ANN in tensorflow ANN to predict digits from MNIST data
+# Build a stacked LSTM in tensorflow to predict digits from MNIST data
 # Jason Dean
 # 09/16/17
 #
