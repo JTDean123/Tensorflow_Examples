@@ -6,16 +6,6 @@
 #
 ###################################################
 
-
-###################################################
-#
-# Build a feed forward ANN in tensorflow ANN to predict digits from MNIST data
-# Jason Dean
-# 09/16/17
-#
-###################################################
-
-
 import tensorflow as tf
 print(tf.__version__)
 from tensorflow.examples.tutorials.mnist import input_data
