@@ -93,7 +93,7 @@ def run():
     plt.scatter(epoch, loss)
     plt.xlabel('Epoch', fontsize=16)
     plt.ylabel('Loss', fontsize=16)
-    plt.title('Loss vs. Epoch for Feed Forward ANN', fontsize=20)
+    plt.title('Loss vs. Epoch for LSTM', fontsize=20)
     plt.show()
 
 # -------- go time --------
