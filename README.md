@@ -1,5 +1,5 @@
 # Tensorflow_Examples
-neural netowork examples in Tensorflow   
+basic neural netoworks in Tensorflow.  intended to be skeletons for bigger things....
   
 so far:
   1) lstm  
